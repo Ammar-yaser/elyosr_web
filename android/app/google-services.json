@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726584128053",
+    "project_id": "elyosr-46045",
+    "storage_bucket": "elyosr-46045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726584128053:android:337bb2dec9304a3b7c777c",
+        "android_client_info": {
+          "package_name": "com.elyosr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726584128053-2gemmse8gmq8cs729paao7bp9pek2doi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWeR2FarfM7lDFlE7TWpVTdRScom-EQ20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726584128053-2gemmse8gmq8cs729paao7bp9pek2doi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

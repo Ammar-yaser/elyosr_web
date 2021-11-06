@@ -1,6 +1,6 @@
 # alyosr_order
 
-A new Flutter project.
+Elyosr web app
 
 ## Getting Started
 
